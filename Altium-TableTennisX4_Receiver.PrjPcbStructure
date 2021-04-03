@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_M032|SchDesignator=U_M032|FileName=M032.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=M032.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_NRF24L01|SchDesignator=U_NRF24L01|FileName=NRF24L01.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=NRF24L01.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
